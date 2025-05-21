@@ -1,6 +1,6 @@
 # 🚕 Rush Hour – C++ OpenGL Game (GLUT + Binary File I/O)
 
-Welcome to **Rush Hour**, a C++ game developed using **OpenGL (GLUT)** as a university Object-Oriented Programming (OOP) project on Ubuntu. This fun and interactive game blends real-world logic with game development fundamentals like file handling, graphics, and object-oriented design.
+Welcome to **Rush Hour**, a C++ game developed using **OpenGL (GLUT)** as Object-Oriented Programming (OOP) project on Ubuntu. This fun and interactive game blends real-world logic with game development fundamentals like file handling, graphics, and object-oriented design.
 
 ---
 
@@ -28,18 +28,6 @@ You're a city driver in a rush! Switch between:
 - **WAV files** for sound effects
 - **Binary File I/O** for storing leaderboard data
 - **Ubuntu Linux**
-
----
-
-## 📁 Folder Structure (Simplified)
-
-RushHour/
-├── game.cpp # Main file
-├── *.cpp / *.h # 25+ OOP source and header files
-├── highscores.dat # Binary file for leaderboard
-├── *.wav # Sound files
-├── Makefile # For compiling
-├── install-libraries.sh # Optional script
 
 ---
 
