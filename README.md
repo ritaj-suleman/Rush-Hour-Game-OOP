@@ -8,8 +8,8 @@ Welcome to **Rush Hour**, a C++ game developed using **OpenGL (GLUT)** as Object
 
 You're a city driver in a rush! Switch between:
 
-- ** Taxi Mode** – Pick up passengers and drop them at their destination
-- ** Delivery Mode** – Pick up packages (boxes) and deliver them
+- **Taxi Mode** – Pick up passengers and drop them at their destination
+- **Delivery Mode** – Pick up packages (boxes) and deliver them
 
 ### Game Features:
 
